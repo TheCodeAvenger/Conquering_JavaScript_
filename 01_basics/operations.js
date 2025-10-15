@@ -20,3 +20,4 @@ console.log("1" + 2 + 2);  // 122  -> string pehele he to sabko string jesa use 
 console.log(1 + 2 + "2");  // 32 -> string badme he to ,
 //  pehle addition hoga numbers ka badme string manenge unko
 
+ 

@@ -7,7 +7,7 @@ console.log(2>= 1);
 console.log(2 <= 1);
 
 //  complicated conversions
-// ---------------------( just for reasing , we usually avoids this type of conversions)------------------
+// ---------------------( just for reasing , we usually avoids this type of conversions)------------------ 
 
 console.log(null > 0);  //false
   console.log(null == 0);  //false
